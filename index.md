@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-sejongk.jpg
+  src: /assets/img/profile-sejongk.jpeg
   alt: Sejong Kim
 ---
 
