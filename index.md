@@ -13,7 +13,7 @@ profile_picture:
 
 <p>
   I'm interested in dealing with all things Web, Networking, Cloud, Distributed System, and Security.
-  I have high and self-learning skills, due to my favor to understand the whole picture.
+  I have high self-learning skills, due to my favor to understand the whole picture.
   I believe in myself, so I always keep challenging to overcome my limits.
 </p>
 
