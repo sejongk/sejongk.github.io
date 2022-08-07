@@ -15,16 +15,18 @@
           <div class="work-item">
             <h2 class="page-heading">{{ item.category }}</h2>
             {% for project in item.projects %}
-              <img
-                src="{{ project.image.src | absolute_url }}"
-                alt="{{ project.image.alt }}"
-                class="work-bubble"
-              />
-              <span class="work-text">
-                <strong>{{ project.title }}</strong>
-                &mdash;
-                {{ project.description }}
-              </span>
+              <div class="work-item">
+                <img
+                  src="{{ project.image.src | absolute_url }}"
+                  alt="{{ project.image.alt }}"
+                  class="work-bubble"
+                />
+                <span class="work-text">
+                  <strong>{{ project.title }}</strong>
+                  &mdash;
+                  {{ project.description }}
+                </span>
+              </div>
             {% endfor %}
           </div>
           {% endfor %}
