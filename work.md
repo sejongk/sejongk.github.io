@@ -12,9 +12,9 @@ items:
       description: I designed and developed a Kubernetes operator for the security products. The operator has a domain-specific knowledge about the products and enables the products to be seamlessly integrated with Kubernetes. Specifically, It provides dynamic configuration via custom resources and service discovery, and operational automation ranging from error remediation, blue-green deployment and dynamic scaling on load. 
     - title: Support Containerization of Web Application Firewall (WAF) Product
       image:
-        src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2880px-Docker_%28container_engine%29_logo.svg.png
+        src: https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png
         alt: container
-      description: I researched essential technologies for a new network engine in the WAF product. There were some problems in the legacy engine, one of which was that it had strong dependencies on a specific device and environment. I proposed a new network engine design that enables providing necessary network functionalities and accelerating packet processing with less dependencies in Kubernetes. 
+      description: I researched essential technologies for a new network engine in the WAF product. There were some problems in the legacy engine, one of which was that it had strong dependencies on a specific underlying device and environment. I proposed a new network engine design that enables providing necessary network functionalities and accelerating packet processing with less dependencies in Kubernetes. 
     - title: Product License Management Agent in Cloud
       image:
         src: https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png
