@@ -13,16 +13,18 @@
 
           {% for item in page.items %}
           <div class="work-item">
-            <img
-              src="{{ item.image.src | absolute_url }}"
-              alt="{{ item.image.alt }}"
-              class="work-bubble"
-            />
-            <span class="work-text">
-              <strong>{{ item.title }}</strong>
-              &mdash;
-              {{ item.description }}
-            </span>
+            <h2 class="page-heading">{{ item.category }}</h2>
+            {% for project in item.projects %}
+              <img
+                src="{{ project.image.src | absolute_url }}"
+                alt="{{ project.image.alt }}"
+                class="work-bubble"
+              />
+              <span class="work-text">
+                <strong>{{ project.title }}</strong>
+                &mdash;
+                {{ project.description }}
+              </span>
           </div>
           {% endfor %}
         </div>
