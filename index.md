@@ -24,9 +24,13 @@ profile_picture:
 
 ## Career
 
-* Penta Security System (2020 ~ Present)
-  * Role
-  * Experience
+### Penta Security System (2020 ~ Present)
+* Develop cloud-native components and foundations for security products
+* Research cloud services and technologies
+  * AWS, Azure, Google Cloud Platform
+  * Kubernetes, OpenStack, OpenShift
+  * Service mesh, MSA, DevOps, DevSecOps
+* Build and operate an internal OpenShift(Kubernetes) cluster
 
 
 ## Education
