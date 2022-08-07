@@ -19,7 +19,7 @@ items:
       image:
         src: https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png
         alt: empty
-      description: There was a requirement for each product to be integrated with the license policy server, which provides a license file and meters time-based usage. I invented a new standard license format that replaced what each product seperately used with. Based on the format, I also designed a standard license API for the policy server, and developed an python agent dealing with the product's license management.
+      description: There was a requirement for each product to be integrated with the license policy server, which provides a license file and meters time-based usage. I invented a new standard license format that replaced what each product seperately used with. Based on the format, I also designed a standard license API for the policy server, and developed a python agent dealing with the product's license management.
   - category: Open Source Software Contribution
     projects:
     - title: Contour (Kubernetes Ingress Controller)
