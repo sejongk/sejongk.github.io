@@ -33,7 +33,7 @@ profile_picture:
 
 ### Freelance Software Engineer, NAVER Corp. (Nov. 2023 - Jan. 2024)
 * Developed [Yorkie](https://github.com/yorkie-team/yorkie), an open-source document store for collaborative editing applications.
-* Introduced MongoDB sharding rules to distribute data and loads in the production environment ([issue #673](https://github.com/yorkie-team/yorkie/issues/673)).
+* Introduced MongoDB sharding rules for distributing data and loads in the production environment ([issue #673](https://github.com/yorkie-team/yorkie/issues/673)).
 
 ## Education
 * Korea University, Seoul, South Korea
