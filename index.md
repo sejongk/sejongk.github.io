@@ -25,7 +25,7 @@ profile_picture:
 
 ### Software Engineer, Penta Security System (Jul. 2020 - Aug. 2022)
 * Developed cloud-native components and foundations for security products.
-* Built and managed an internal OpenShift (Kubernetes) cluster.
+* Built and managed an in-house OpenShift (Kubernetes) cluster.
 
 ### Software Engineer Intern, NAVER Corp. (Jul. 2023 - Sep. 2023)
 * Developed [Yorkie](https://github.com/yorkie-team/yorkie), an open-source document store for collaborative editing applications.
